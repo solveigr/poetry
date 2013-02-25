@@ -2,6 +2,6 @@
 
 * Poe
 * Tolkien
+* Shakespeare
 * Coming soon
-  * Shakespeare
   * Shelley
